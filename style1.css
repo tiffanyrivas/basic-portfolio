@@ -63,7 +63,7 @@ header {
   font-size: 28px;
   color:black;
   /* text-align: center; */
-  background-color: blanchedalmond; 
+  background-color: pink; 
   font-family: sans-serif;
 } 
 
@@ -71,7 +71,6 @@ h2 {
   font-size: 24px;
   margin: auto;
   padding: 0px 0px 10px 0px;
-  color: black;
   /* background-color: blanchedalmond; */
 }
 
@@ -84,15 +83,14 @@ h2 {
 
 #main-bio{
   /* float: left; */
-  padding: 100px 100px 275px 100px;
-  background-color: blanchedalmond;
+  padding: 100px 100px 350px 100px;
+  background-color: pink;
 }
 
 #bio{
   font-family: sans-serif;
   font-size: 10;
   font-weight: bold;
-  color: black;
 }
 
 #main-bio {
@@ -118,7 +116,14 @@ h2 {
   padding: 0px 0px 0px 0px;
 }
 
-p {
+#p {
   padding: 0px;
   margin: 0px;
+}
+#con {
+    float: left;
+    background-color: pink;
+    padding: 0px;
+    color: black;
+
 }
